@@ -1,0 +1,32 @@
+{
+  "packages": {
+    "@mui/material": {
+      "notes": "for material-ui",
+      "notify": false,
+      "currentVersion": "5.8.6",
+      "targetVersion": "",
+      "betas": false
+    },
+    "@mui/pickers": {
+      "notes": "for material-ui",
+      "notify": false,
+      "currentVersion": "1.0.0",
+      "targetVersion": "",
+      "betas": false
+    },
+    "@mui/styles": {
+      "notes": "for material-ui",
+      "notify": false,
+      "currentVersion": "4.0.0",
+      "targetVersion": "",
+      "betas": false
+    },
+    "@mui/icons": {
+      "notes": "for material-ui",
+      "notify": false,
+      "currentVersion": "4.0.0",
+      "targetVersion": "",
+      "betas": false
+    }
+  }
+}
