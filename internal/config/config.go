@@ -9,7 +9,7 @@ import (
 type Package struct {
 	CurrentVersion string `json:"currentVersion"`
 	TargetVersion  string `json:"targetVersion"`
-	Betas          bool   `json:"betas"`
+	Betas          bool   `json:"includeBetas"`
 	Notes          string `json:"notes"`
 	Notify         bool   `json:"notify"`
 }
