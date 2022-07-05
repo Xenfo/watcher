@@ -12,7 +12,7 @@
 
 ## Usage
 
-Create a `config.json` file and add the packages you want to watch.
+Create a `config.json` file and add the packages you want to watch. Then run `go run main.go`.
 
 ```json
 // config.json
