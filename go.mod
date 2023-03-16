@@ -5,7 +5,7 @@ go 1.19
 require (
 	github.com/Masterminds/semver v1.5.0
 	github.com/fatih/color v1.13.0
-	github.com/go-co-op/gocron v1.15.0
+	github.com/go-co-op/gocron v1.18.1
 	github.com/samber/lo v1.25.0
 	go.uber.org/zap v1.21.0
 )
@@ -17,6 +17,6 @@ require (
 	go.uber.org/atomic v1.9.0 // indirect
 	go.uber.org/multierr v1.8.0 // indirect
 	golang.org/x/exp v0.0.0-20220303212507-bbda1eaf7a17 // indirect
-	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c // indirect
+	golang.org/x/sync v0.1.0 // indirect
 	golang.org/x/sys v0.6.1-0.20230315211213-ff18efa0a3fa // indirect
 )
