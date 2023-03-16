@@ -7,7 +7,7 @@ require (
 	github.com/fatih/color v1.13.0
 	github.com/go-co-op/gocron v1.15.0
 	github.com/samber/lo v1.25.0
-	go.uber.org/zap v1.21.0
+	go.uber.org/zap v1.24.0
 )
 
 require (
