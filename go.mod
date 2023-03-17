@@ -4,15 +4,15 @@ go 1.19
 
 require (
 	github.com/Masterminds/semver v1.5.0
-	github.com/fatih/color v1.13.0
+	github.com/fatih/color v1.15.0
 	github.com/go-co-op/gocron v1.18.1
 	github.com/samber/lo v1.37.0
 	go.uber.org/zap v1.24.0
 )
 
 require (
-	github.com/mattn/go-colorable v0.1.9 // indirect
-	github.com/mattn/go-isatty v0.0.14 // indirect
+	github.com/mattn/go-colorable v0.1.13 // indirect
+	github.com/mattn/go-isatty v0.0.17 // indirect
 	github.com/robfig/cron/v3 v3.0.1 // indirect
 	go.uber.org/atomic v1.9.0 // indirect
 	go.uber.org/multierr v1.8.0 // indirect
