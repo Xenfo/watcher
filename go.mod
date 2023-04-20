@@ -5,7 +5,7 @@ go 1.19
 require (
 	github.com/Masterminds/semver v1.5.0
 	github.com/fatih/color v1.15.0
-	github.com/go-co-op/gocron v1.22.3
+	github.com/go-co-op/gocron v1.22.4
 	github.com/samber/lo v1.38.1
 	go.uber.org/zap v1.24.0
 )
